@@ -1,0 +1,21 @@
+{
+  "name": "project5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "WebServer": "nodemon main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "express": "^4.18.1",
+    "express-basic-auth": "^1.2.1",
+    "mongoose": "^6.6.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.2",
+    "nodemon": "^2.0.19"
+  }
+}
